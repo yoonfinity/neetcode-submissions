@@ -1,5 +1,10 @@
 # NeetCode Solutions — @yoonfinity
+A collection of my solutions to NeetCode problems as part of my ongoing
+review of data structures, algorithms, and Python fundamentals.
 
+My focus is on strengthening problem-solving skills and maintaining
+strong software fundamentals alongside my work in control systems
+engineering.
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
 ---
